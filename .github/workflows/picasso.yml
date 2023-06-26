@@ -17,8 +17,8 @@ jobs:
       uses: actions/checkout@v3
       with:
         github-server-url: 'https://github.com'
-        repository: EndCredits/kernel_xiaomi_sm7250
-        ref: android-4.19-main
+        repository: DtHnAme/kernel_blackshark_penrose
+        ref: thirteen
         submodules: true
         path: android-kernel
       
